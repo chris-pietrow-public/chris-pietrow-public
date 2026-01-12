@@ -35,13 +35,13 @@ side_quest: Quantitative trading algorithms (serverless AWS infrastructure)
 - dbt · Fivetran · BigQuery · Snowflake · Apache Airflow · Dagster · DuckDB · PostgreSQL
 
 **Cloud & Infrastructure:**
-- AWS (S3, Lambda, Glue, Athena, EC2) · GCP (BigQuery, GCS, IAM) · Docker · GitHub CI/CD
+- AWS (S3, Lambda, Glue, Athena, EC2) · GCP (BigQuery, GCS, IAM) · Docker · Kubernetes · GitHub CI/CD
 
 **AI/LLM Integration:**
 - Claude Code · Gemini · AI-augmented workflows · LLM-powered data pipelines
 
 **Visualization:**
-- Looker · Tableau · Mode · Hashboard · Evidence
+- Looker · Tableau · Mode · Hashboard · Evidence · Visivo
 
 ---
 
