@@ -26,6 +26,30 @@ side_quest: Quantitative trading algorithms (serverless AWS infrastructure)
 
 ---
 
+## 🏆 **Highlighted Achievements**
+
+### Data Products & Infrastructure
+- 🚀 **Built flagship analytics platform from 0→1** serving enterprise publishers in digital media
+- 📊 **Architected production pipelines** processing billions of rows monthly across diverse ingestion sources
+- ⚡ **Designed custom orchestration framework** managing complex asynchronous data dependencies
+- 🔄 **Automated finance reconciliation system** dramatically reducing manual reporting overhead
+
+### Enterprise Impact & Leadership
+- 💼 **Led cross-functional teams** coordinating engineering, product, sales, and client success
+- 🌐 **Managed offshore engineering teams** across time zones, ensuring consistent delivery quality
+- 📈 **Optimized integration efficiency by 50%** for Fortune 500 healthcare client through distributed team coordination
+- 🎓 **First to pioneer implementation** in higher education vertical, expanding into new market
+
+### Technical Excellence
+- 🏗️ **Built serverless ETL infrastructure** on AWS (Lambda, S3, Athena) for quantitative trading systems
+- 🔧 **Reduced deployment time significantly** through code-level optimization and CI/CD improvements
+- 💾 **Designed reusable frameworks** for future implementations, enabling team scalability
+- 🎯 **Saved enterprise clients substantial costs** through architectural redesign and offshore consulting
+
+<sub>_*Metrics abstracted to respect proprietary business information_</sub>
+
+---
+
 ## 🛠️ **Tech Stack**
 
 ### Languages
