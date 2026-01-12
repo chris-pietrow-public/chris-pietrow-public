@@ -4,7 +4,7 @@
 
 👨‍💻 **About Me**
 
-I'm a data engineering leader and analytics architect passionate about building scalable infrastructure that turns complex business requirements into production-grade data products. Currently building systems that process **billions of rows monthly** and drive significant business revenue.
+I'm a data engineering leader and analytics architect passionate about building scalable infrastructure that turns complex business requirements into production-grade data products. Currently building systems that process **petabytes of data monthly** and drive significant business revenue.
 
 ```python
 current_role: Lead Field Engineer @ Switchboard Software
@@ -19,7 +19,7 @@ side_quest: Quantitative trading algorithms (serverless AWS infrastructure)
 ## 🚀 **What I'm Working On**
 
 - **Switchboard DMCA Platform:** Built flagship analytics suite from 0→1 serving enterprise publishers in digital media
-- **Modern Data Stack:** Architecting production pipelines processing billions of rows monthly using dbt, BigQuery, and Airflow
+- **Modern Data Stack:** Architecting production pipelines processing petabytes of data monthly using dbt, BigQuery, and Airflow
 - **AI-Augmented Development:** Leveraging Claude Code & Gemini to accelerate velocity and integrate LLMs into data workflows
 - **Data Engineering for AI/ML:** Building infrastructure that powers intelligent systems and ML operations
 - **Finance Reconciliation:** Automated system processing billions of rows monthly, dramatically reducing manual effort
@@ -30,7 +30,7 @@ side_quest: Quantitative trading algorithms (serverless AWS infrastructure)
 
 ### Data Products & Infrastructure
 - 🚀 **Built flagship analytics platform from 0→1** serving enterprise publishers in digital media
-- 📊 **Architected production pipelines** processing billions of rows monthly across diverse ingestion sources
+- 📊 **Architected production pipelines** processing petabytes of data monthly across diverse ingestion sources
 - ⚡ **Designed custom orchestration framework** managing complex asynchronous data dependencies
 - 🔄 **Automated finance reconciliation system** dramatically reducing manual reporting overhead
 
