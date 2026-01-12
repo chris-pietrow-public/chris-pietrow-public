@@ -4,7 +4,7 @@
 
 👨‍💻 **About Me**
 
-I'm a data engineering leader and analytics architect passionate about building scalable infrastructure that turns complex business requirements into production-grade data products. Currently building systems that process **16B+ rows/month** and drive **$2M+ in ARR**.
+I'm a data engineering leader and analytics architect passionate about building scalable infrastructure that turns complex business requirements into production-grade data products. Currently building systems that process **billions of rows monthly** and drive significant business revenue.
 
 ```python
 current_role: Lead Field Engineer @ Switchboard Software
@@ -18,11 +18,11 @@ side_quest: Quantitative trading algorithms (serverless AWS infrastructure)
 
 ## 🚀 **What I'm Working On**
 
-- **Switchboard DMCA Platform:** Built flagship analytics suite from 0→1, serving 8-10 enterprise publishers with **$1.5M projected ARR in 2025**
-- **Modern Data Stack:** Architecting production pipelines processing **16B+ rows/month** using dbt, BigQuery, and Airflow
+- **Switchboard DMCA Platform:** Built flagship analytics suite from 0→1 serving enterprise publishers in digital media
+- **Modern Data Stack:** Architecting production pipelines processing billions of rows monthly using dbt, BigQuery, and Airflow
 - **AI-Augmented Development:** Leveraging Claude Code & Gemini to accelerate velocity and integrate LLMs into data workflows
 - **Data Engineering for AI/ML:** Building infrastructure that powers intelligent systems and ML operations
-- **Finance Reconciliation:** Automated system processing **8.3B rows/month**, saving **200 person-hours monthly**, generating **$500K ARR**
+- **Finance Reconciliation:** Automated system processing billions of rows monthly, dramatically reducing manual effort
 
 ---
 
