@@ -10,8 +10,7 @@ I'm a data engineering leader and analytics architect passionate about building 
 current_role: Lead Field Engineer @ Switchboard Software
 location: Columbus, Ohio
 focus: Modern data stack, AI-augmented development, 0→1 products
-background: Analytics Engineering, Data Infrastructure, Revenue Operations
-side_quest: Quantitative trading algorithms (serverless AWS infrastructure)
+background: Data & Analytics Engineering, Data Infrastructure, Revenue Operations
 ```
 
 ---
