@@ -1,4 +1,4 @@
-# Hey there! I'm Chris Pietrow 👋
+# Chris Pietrow
 
 ## <span style="color:#58A6FF">Data Engineering Leader</span>
 
