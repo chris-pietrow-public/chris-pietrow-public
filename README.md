@@ -7,10 +7,10 @@
 I'm a data engineering leader and analytics architect passionate about building scalable infrastructure that turns complex business requirements into production-grade data products. Currently building systems that process **petabytes of data monthly** and drive significant business revenue.
 
 ```python
-current_role: Lead Field Engineer @ Switchboard Software
-location: Columbus, Ohio
-focus: Modern data stack, AI-augmented development, 0→1 products
-background: Data & Analytics Engineering, Data Infrastructure, Revenue Operations
+current_role: Forward Deployed Data Engineer @ ZoomInfo
+location: Miami, Florida
+focus: Modern data stack, AI-augmented development, 0→1 end-to-end data products
+background: Data & Analytics Engineering, Data Infrastructure, Revenue Operations, Ad-Tech, GTM Engineering, IT Consulting
 ```
 
 ---
